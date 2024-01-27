@@ -25,5 +25,6 @@ leia(altura)
 imc <- peso / altura
 
 escreva( nome, " ,seu IMC é igual a: ", imc)
+// testes na Branch para fianlização do (IMC)
 
 fimalgoritmo
